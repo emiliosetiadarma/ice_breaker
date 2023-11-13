@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 black = "*"
 langchain = "*"
+openai = "==0.28.1"
 
 [dev-packages]
 
