@@ -20,7 +20,7 @@ Musk has expressed views that have made him a polarizing figure. He has been cri
 if __name__ == "__main__":
     print("Hello LangChain!")
 
-    linkedin_profile_url = linkedin_lookup_agent(name="Eden Marco")
+    linkedin_profile_url = linkedin_lookup_agent(name="Eden Marco Udemy")
 
     summary_template = """
         given the information {information} about a person from I want you to create:
