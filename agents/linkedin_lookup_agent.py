@@ -1,0 +1,8 @@
+from langchain import PromptTemplate
+from langchain.chat_models import ChatOpenAI
+
+from langchain.agents import initialize_agent, Tool, AgentType
+
+def lookup(name: str) -> str:
+    # TODO: Implement this function
+    return "Linkedin Profile URL"
