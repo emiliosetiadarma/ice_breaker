@@ -1,8 +1,11 @@
 import os
 from datetime import datetime, timezone
+from dotenv import load_dotenv
 import logging
 
 import tweepy
+
+load_dotenv()
 
 logger = logging.getLogger("twitter")
 

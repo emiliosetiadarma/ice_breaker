@@ -8,6 +8,8 @@ langchain = "*"
 requests = "*"
 black = "*"
 tweepy = "*"
+python-dotenv = "*"
+google-search-results = "*"
 
 [dev-packages]
 
